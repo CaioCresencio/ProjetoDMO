@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DroidTeca</string>
+    <string name="action_cadastroLivro">Cadastro Livro</string>
+    <string name="action_cadastroPessoa">Cadastro Pessoa</string>
+    <string name="listar_emprestimos">Listar Empréstimo</string>
+    <string name="listar_livros">Listar Livros</string>
+    <string name="hintNome">Nome</string>
+    <string name="hintQtdMax">Quatindade de empréstimo</string>
+    <string name="hintTitulo">Titulo</string>
+    <string name="hintAutor">Autor</string>
+    <string name="buttonEmprestar">Emprestar</string>
+    <string name="buttonSalar">Salvar</string>
+    <string name="devolver">Devolver</string>
+    <string name="buttonCancelar">Cancelar</string>
+    <string name="buttonDevolver">Devolver</string>
+    <string name="livros_home">Livros:</string>
+    <string name="pessoas_home">Pessoas:</string>
+    <string name="cadastroLivros">Cadastro de Livros:</string>
+    <string name="cadastroUsuarios">Cadastro de Usuário:</string>
+    <string name="titulo_listagem">Livros no acervo:</string>
+    <string name="titulo_emp">Livros emprestados:</string>
+</resources>

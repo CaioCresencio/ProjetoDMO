@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ifsp.droidteca.view.MainActivity">
+    <item
+        android:id="@+id/action_cadastroLivro"
+        android:orderInCategory="100"
+        android:title="@string/action_cadastroLivro"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_cadastroPessoa"
+        android:orderInCategory="100"
+        android:title="@string/action_cadastroPessoa"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_emprestimo"
+        android:orderInCategory="100"
+        android:title="@string/listar_emprestimos"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_livros"
+        android:orderInCategory="100"
+        android:title="@string/listar_livros"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_devolver"
+        android:orderInCategory="100"
+        android:title="@string/devolver"
+        app:showAsAction="never" />
+</menu>
